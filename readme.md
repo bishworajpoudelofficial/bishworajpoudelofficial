@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishworaj Poudel</h1>
 <h3 align="center">A passionate software developer and entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishworajpoudelofficial&label=Profile%20views&color=0e75b6&style=flat" alt="bishworajpoudelofficial" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishworajpoudelofficial" alt="bishworajpoudelofficial" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bishworajpoude5" target="blank"><img src="https://img.shields.io/twitter/follow/bishworajpoude5?logo=twitter&style=for-the-badge" alt="bishworajpoude5" /></a> </p>
 
 - 🔭 I’m currently working on [Dart Tutorial](https://dart-tutorial.com/)
 
@@ -41,4 +37,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bishworajpidel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bishworajpidel" /></a></p>
 
+
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=bishworajpoudelofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bishworajpoudel"/>
+
+<p align="center"> <a href="https://twitter.com/bishworajpoude5" target="blank"><img src="https://img.shields.io/twitter/follow/bishworajpoude5?logo=twitter&style=for-the-badge" alt="bishworajpoude5" /></a> </p>
 
