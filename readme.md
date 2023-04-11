@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p align="left"><a href="https://www.buymeacoffee.com/bishworajpidel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bishworajpidel" /></a>
+<p align="left"><a href="https://www.buymeacoffee.com/bishworajpoudel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bishworajpidel" /></a>
 
 <br><br>
 
