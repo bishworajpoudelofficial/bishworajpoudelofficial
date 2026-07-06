@@ -1,64 +1,117 @@
-# 👋 Hello, I’m Bishworaj Poudel!
+# 👋 Hi, I'm Bishworaj Poudel
 
-With **[279K subscribers](https://youtube.com/technologychannel)** on YouTube, a **[27K-strong Facebook community](https://www.facebook.com/groups/technologychannel/)**, and creator of popular platforms like **[Dart Tutorial](https://dart-tutorial.com/)** and **[Flutter Tutorial](https://flutter-tutorial.net/)**, I’ve helped **hundreds of thousands** successfully transition into the IT world. With my strong foundation in **IT education** and extensive experience, how can I assist you in achieving your goals today?
+## 🇳🇵 Nepal's AI Trainer | Corporate AI Trainer | Founder of Technology Channel
 
----
-### About Me
-I'm a passionate **Content Creator** with experience in **AI**, **Cloud**, **Coding**, **Digital Marketing**, and **Teaching**.
+I help **professionals, entrepreneurs, businesses, and students** learn practical Artificial Intelligence skills that improve productivity, automate work, and create new opportunities.
 
-- 🔭 I’m helping people land their dream jobs in IT, turning skills into opportunities for a better future.
-- 🌱 I’m currently teaching **Python** and **Django**
-- 👨‍💻 All of my projects are available at [brp.com.np](https://brp.com.np)
-- 💬 Ask me about **Content Creation**, **Python**, **Web Scraping**, **Django**, and **Flutter**
-- 📫 How to reach me **bishworajpoudelofficial@gmail.com**
+My mission is simple:
 
----
-### 🛠️ Languages and Tools
-
-- **Programming Languages**: Python, Dart, JavaScript, Bash
-- **Frameworks**: Django, Flutter
-- **Web Scraping Tools**: Selenium
-- **Databases**: MySQL, PostgreSQL, 
-- **Version Control**: Git
-- **Containerization**: Docker
-- **Other Technologies**: HTML5, CSS3, Linux, Postman, Firebase
+> **Build People's Future With Skills.**
 
 ---
 
-### 📚 Content & Teaching
-- **YouTube Channel**: [Technology Channel](https://youtube.com/technologychannel) — Sharing tutorials and tech insights.
-- **Blog**: [Dart Tutorial](https://dart-tutorial.com/) — Writing about programming, technology, and best practices.
-- **Courses**: Offering online courses on **Python**, **Web Development**, and **App Development**.
+## 🚀 What I Do
+
+- 🤖 AI Training for Individuals & Organizations
+- 🏢 Corporate AI Workshops
+- 🧠 AI Agents & Business Automation
+- ✍️ AI Content Creation Systems
+- ⚡ AI Productivity & Workflow Design
+- 🎓 AI Ready Training Founder
+- 📺 AI Educator & Content Creator
 
 ---
 
+## 🌍 About Me
 
-### 🔗 Connect with Me
-- **LinkedIn**: [Bishworaj Poudel](https://linkedin.com/in/bishworajpoudelofficial)
-- **Website**: [brp.com.np](https://brp.com.np)
+Over the past decade, I've helped **hundreds of thousands of learners** through online education.
 
+Today, my focus is helping people and organizations adopt AI confidently through practical training, real-world projects, and business-focused implementation.
 
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/bishworajpoudel" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
+Whether you're an individual looking to upskill or a company preparing for the AI era, I'm committed to making AI simple, practical, and impactful.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishworajpoudelofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://twitter.com/bishworajpoude5" target="blank">
-    <img src="https://img.shields.io/twitter/follow/bishworajpoude5?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Automation
+- 💼 AI for Business
+- 📈 AI Productivity
+- 🎥 AI Content Creation
+- 💻 Prompt Engineering
+- 🌐 Generative AI
 
 ---
 
-Feel free to reach out for collaboration or just a friendly chat!
+## 🛠️ Technologies
+
+### AI
+- ChatGPT
+- Claude
+- Gemini
+- Perplexity
+- Microsoft Copilot
+- NotebookLM
+
+### Development
+- Python
+- JavaScript
+- Flutter
+- Django
+- FastAPI
+
+### AI Automation
+- n8n
+- Make
+- Zapier
+- MCP
+- APIs
+
+### Cloud & DevOps
+- Docker
+- Linux
+- Git
+- GitHub
+
 ---
 
-Feel free to reach out for collaboration or just a friendly chat!
+## 📚 My Projects
+
+- 🌐 **Personal Website**
+  https://bishworajpoudel.com
+
+- 🎓 **AI Ready Training**
+  http://learnaiinnepal.technologychannel.org/
+
+- 📺 **Technology Channel**
+  https://youtube.com/technologychannel
+
+---
+
+## 🎤 Available For
+
+- Corporate AI Training
+- AI Workshops
+- Keynote Speaking
+- AI Consulting
+- AI Strategy
+- AI Automation Projects
+
+---
+
+## 📫 Connect
+
+🌐 Website
+https://bishworajpoudel.com
+
+📧 Email
+bishworajpoudelofficial@gmail.com
+
+💼 LinkedIn
+https://linkedin.com/in/bishworajpoudelofficial
+
+---
+
+> **Helping Nepal embrace Artificial Intelligence through practical skills, real-world implementation, and lifelong learning.**
